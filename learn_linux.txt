@@ -1,0 +1,22 @@
+echo $PATH
+which tac
+man -k calendar #find the manuals which are related to "calendar"
+mkdir --help
+cd -
+echo $OLDPWD
+/bin/cat learn_linux.txt #run a program named "cat" but not stored in the "PATH"
+./cat learn_linx.txt #run the "cat" program stored in current directory
+mkdir -p dir1/dir2/dir3
+ls -F #list the object types: /, @, #
+ls -R #list files recursively
+tree -d
+tree -C
+groups
+id -Gn
+chmod g+w sales.dat
+chmod u+rwx,g-x sales.dat
+chgrp sales sales.dat
+mv sales.dat /usr/local/sales
+umask 007
+find /sbin -iname makedev
+file sale.txt
