@@ -1,0 +1,15 @@
+***All_Event_Data
+##The earliest event time recorded in Mixpanel is 01/27/2016 @ 2:16am (UTC)
+
+##The sampling_factor column can be dropped because all values are 1
+
+##can use distinct_id to identify each different candidate and recruiter users
+
+##sometimes, the property.id is the same as distinct_id, but other times
+the property.id is NA
+
+##there are only 1,894 distinct_id who has pure 4-digit id number (up to 06/14/2016);
+there are 3,161 distinct_id who has longer-than-4-character id number;
+and there are "" (empty) distinct_id present in the table
+
+##try to pull the data prior to 06/01/2016
