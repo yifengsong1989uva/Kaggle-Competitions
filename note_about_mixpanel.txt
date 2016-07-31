@@ -14,3 +14,4 @@ and there are "" (empty) distinct_id present in the table
 
 ##try to pull the data prior to 06/01/2016
 1234567
+abcdefg
