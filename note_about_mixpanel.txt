@@ -13,3 +13,4 @@ there are 3,161 distinct_id who has longer-than-4-character id number;
 and there are "" (empty) distinct_id present in the table
 
 ##try to pull the data prior to 06/01/2016
+1234567
